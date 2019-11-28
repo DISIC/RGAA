@@ -1,4 +1,4 @@
-# RGAA 4 au format JSON
+# Critères et glossaire de la version 4 du RGAA
 
 Ce dépôt contient une version des critères et du glossaire du [RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) 4 au format JSON.
 
