@@ -8,10 +8,10 @@ Le fichier `criteres.json` contient la liste des 106 [critères du RGAA 4](https
 
 Chaque critère RGAA contient les informations suivantes :
 
-* Numéro;
-* Titre;
-* Liste des tests associés, certains tests pouvant contenir eux-mêmes une liste de conditions d'application;
-* Section note technique (optionnelle);
+* Numéro ;
+* Titre ;
+* Liste des tests associés, certains tests pouvant contenir eux-mêmes une liste de conditions d'application ;
+* Section note technique (optionnelle) ;
 * Section cas particuliers (optionnelle);
 * Section références divisée en deux parties :
   * Références aux critères WCAG associés;
