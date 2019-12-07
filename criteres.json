@@ -30,7 +30,7 @@
                             "7": [
                                 "Chaque image embarquée (balise `<embed>` avec l’attribut `type=\"image/…\"`) [porteuse d’information](#image-porteuse-d-information), vérifie-t-elle une de ces conditions ?",
                                 "La balise `<embed>` possède une alternative textuelle",
-                                "L'élément `<embed>` est immédiatement suivi d’un [lien ou bouton adjacent](#lien-ou-bouton-adjacent) permettant d’accéder à un [contenu alternatif](#contenu-alternatif).",
+                                "L’élément `<embed>` est immédiatement suivi d’un [lien ou bouton adjacent](#lien-ou-bouton-adjacent) permettant d’accéder à un [contenu alternatif](#contenu-alternatif).",
                                 "Un mécanisme permet à l’utilisateur de remplacer l’élément `<embed>` par un [contenu alternatif](#contenu-alternatif)."
                             ],
                             "8": [
@@ -754,7 +754,7 @@
                             "Les cas suivants sont non applicables pour ce critère :",
                             {
                                 "ul": [
-                                    "Composant d'interface inactif (exemple un bouton avec un attribut `disabled`) sur lequel aucune action n’est possible.",
+                                    "Composant d’interface inactif (exemple un bouton avec un attribut `disabled`) sur lequel aucune action n’est possible.",
                                     "Composant d’interface pour lequel l’apparence est gérée par les styles natifs du navigateur sans aucune modification par l’auteur (exemple le style au focus natif dans chrome ou firefox).",
                                     "Composant d’interface pour lequel la couleur n’est pas nécessaire pour identifier le composant ou son état (exemple un groupe de liens faisant office de navigation dont la position dans la page, la taille et la couleur du texte permettent de comprendre qu’il s’agit de liens même si la couleur du soulignement des liens avec le fond blanc n’a pas un ratio de 3:1 et que le texte lui a un ratio de 4.5:1).",
                                     "Élément graphique ou parties d’élément graphique non porteur d’information ou ayant une alternative (description longue, informations identiques visibles dans la page).",
@@ -1241,7 +1241,7 @@
                             ],
                             "2": [
                                 "Chaque [média temporel](#media-temporel-type-son-video-et-synchronise) et [non temporel](#media-non-temporel) qui possède une alternative [compatible avec les technologies d’assistance](#compatible-avec-les-technologies-d-assistance), vérifie-t-il une de ces conditions ?",
-                                "L'alternative est adjacente au média temporel ou non temporel.",
+                                "L’alternative est adjacente au média temporel ou non temporel.",
                                 "L’alternative est accessible via un [lien ou bouton adjacent](#lien-ou-bouton-adjacent).",
                                 "Un mécanisme permet de remplacer le média temporel ou non temporel par son alternative."
                             ]
@@ -1397,7 +1397,7 @@
                         "title": "Pour chaque [tableau de données](#tableau-de-donnees), chaque [en-tête de colonnes](#en-tete-de-colonne-ou-de-ligne) et chaque [en-tête de lignes](#en-tete-de-colonne-ou-de-ligne) sont-ils correctement déclarés ?",
                         "tests": {
                             "1": [
-                                "Pour chaque [tableau de données](#tableau-de-donnees), chaque [en-tête de colonnes](#en-tete-de-colonne-ou-de-ligne) s'appliquant à la totalité de la colonne vérifie-t-il une de ces conditions ?",
+                                "Pour chaque [tableau de données](#tableau-de-donnees), chaque [en-tête de colonnes](#en-tete-de-colonne-ou-de-ligne) s’appliquant à la totalité de la colonne vérifie-t-il une de ces conditions ?",
                                 "L’[en-tête de colonnes](#en-tete-de-colonne-ou-de-ligne) est structuré au moyen d’une balise `<th>`.",
                                 "L’[en-tête de colonnes](#en-tete-de-colonne-ou-de-ligne) est structuré au moyen d’une balise pourvue d’un attribut WAI-ARIA `role=\"columnheader\"`."
                             ],
@@ -1450,7 +1450,7 @@
                             "4": [
                                 "Pour chaque contenu de balise `<td>` ou `<th>` associée à un ou plusieurs en-têtes possédant un attribut `id`, la balise vérifie-t-elle ces conditions ?",
                                 "La balise possède un attribut `headers`.",
-                                "L'attribut `headers` possède la liste des valeurs d’attribut `id` des [en-têtes](#en-tete-de-colonne-ou-de-ligne) associés."
+                                "L’attribut `headers` possède la liste des valeurs d’attribut `id` des [en-têtes](#en-tete-de-colonne-ou-de-ligne) associés."
                             ],
                             "5": [
                                 "Pour chaque balise pourvue d’un attribut WAI-ARIA `role=\"rowheader\"` ou `\"columnheader\"` dont le contenu s’applique à la totalité de la ligne ou de la colonne, la balise vérifie-t-elle une de ces conditions ?",
@@ -1717,7 +1717,7 @@
                         "tests": {
                             "1": [
                                 "Chaque élément possédant un gestionnaire d’événement contrôlé par un script vérifie-t-il une de ces conditions (hors cas particuliers) ?",
-                                "L'élément est [accessible par le clavier et tout dispositif de pointage](#accessible-et-activable-par-le-clavier-et-tout-dispositif-de-pointage).",
+                                "L’élément est [accessible par le clavier et tout dispositif de pointage](#accessible-et-activable-par-le-clavier-et-tout-dispositif-de-pointage).",
                                 "Un élément [accessible par le clavier et tout dispositif de pointage](#accessible-et-activable-par-le-clavier-et-tout-dispositif-de-pointage) permettant de réaliser la même action est présent dans la page."
                             ],
                             "2": [
@@ -2129,7 +2129,7 @@
             ]
         },
         {
-            "topic": "Structuration de l'information",
+            "topic": "Structuration de l’information",
             "number": 9,
             "criteria": [
                 {
@@ -2283,7 +2283,7 @@
             ]
         },
         {
-            "topic": "Présentation de l'information",
+            "topic": "Présentation de l’information",
             "number": 10,
             "criteria": [
                 {
@@ -2333,7 +2333,7 @@
                         "title": "Dans chaque page web, le [contenu visible](#contenu-visible) reste-t-il présent lorsque les [feuilles de styles](#feuille-de-style) sont désactivées ?",
                         "tests": {
                             "1": [
-                                "Dans chaque page web, l'information reste-t-elle présente lorsque les [feuilles de styles](#feuille-de-style) sont désactivées ?"
+                                "Dans chaque page web, l’information reste-t-elle présente lorsque les [feuilles de styles](#feuille-de-style) sont désactivées ?"
                             ]
                         },
                         "references": [
@@ -2522,7 +2522,7 @@
                         "tests": {
                             "1": [
                                 "Dans chaque page web, chaque contenu caché vérifie-t-il une de ces conditions ?",
-                                "Le [contenu caché](#contenu-cache) a vocation à être ignoré par les technologies d'assistance.",
+                                "Le [contenu caché](#contenu-cache) a vocation à être ignoré par les technologies d’assistance.",
                                 "Le [contenu caché](#contenu-cache) n’a pas vocation à être ignoré par les technologies d’assistances et est rendu restituable par les technologies d’assistance suite à une action de l’utilisateur réalisable au clavier ou par tout dispositif de pointage sur un élément précédent le contenu caché ou suite à un repositionnement du focus dessus."
                             ]
                         },
@@ -4038,7 +4038,7 @@
                         "tests": {
                             "1": [
                                 "Dans chaque page web, les actions déclenchées au moyen d’un dispositif de pointage sur un point unique de l’écran vérifient-elles l’une de ces conditions (hors cas particuliers) ?",
-                                "L'action est déclenchée au moment où le dispositif de pointage est [relâché ou relevé](#relache-ou-releve);",
+                                "L’action est déclenchée au moment où le dispositif de pointage est [relâché ou relevé](#relache-ou-releve);",
                                 "L’action est déclenchée au moment où le dispositif de pointage est [pressé ou posé](#presse-ou-pose) puis annulée lorsque le dispositif de pointage est [relâché ou relevé](#relache-ou-releve);",
                                 "Un mécanisme est disponible pour abandonner (avant achèvement de l’action) ou annuler (après achèvement) l’exécution de l’action."
                             ]
