@@ -252,7 +252,7 @@
                                 "S’il est présent le [contenu alternatif](#contenu-alternatif) est pertinent."
                             ],
                             "6": [
-                                "Pour chaque image vectorielle (balise `<svg>`) utilisé comme [CAPTCHA](#captcha) ou comme [image-test](#image-test), ayant une [alternative textuelle](#alternative-textuelle-image), cette alternative est-elle pertinente ?",
+                                "Pour chaque image vectorielle (balise `<svg>`) utilisée comme [CAPTCHA](#captcha) ou comme [image-test](#image-test), ayant une [alternative textuelle](#alternative-textuelle-image), cette alternative est-elle pertinente ?",
                                 "S’il est présent, le contenu de l’attribut `title` est pertinent.",
                                 "S’il est présent, le contenu de l’attribut WAI-ARIA `aria-label` est pertinent.",
                                 "S’il est présent, le [passage de texte](#passage-de-texte-lie-par-aria-labelledby-ou-aria-describedby) associé via l’attribut WAI-ARIA `aria-labelledby` est pertinent."
@@ -317,7 +317,7 @@
                         "tests": {
                             "1": [
                                 "Chaque image (balise `<img>`) [porteuse d’information](#image-porteuse-d-information), qui nécessite une [description détaillée](#description-detaillee-image), vérifie-t-elle une de ces conditions ?",
-                                "Il existe un attribut `longdesc` qui donne l’adresse ([url](#url)) d’une page ou d’un emplacement dans la page contenant la [description détaillée](#description-detaillee-image).",
+                                "Il existe un attribut `longdesc` qui donne l’adresse ([URL](#url)) d’une page ou d’un emplacement dans la page contenant la [description détaillée](#description-detaillee-image).",
                                 "Il existe une [alternative textuelle](#alternative-textuelle-image) contenant la référence à une [description détaillée](#description-detaillee-image) adjacente à l’image.",
                                 "Il existe un [lien ou un bouton adjacent](#lien-ou-bouton-adjacent) permettant d’accéder à la [description détaillée](#description-detaillee-image)."
                             ],
@@ -1072,7 +1072,7 @@
                         "tests": {
                             "1": [
                                 "Chaque [média non temporel](#media-non-temporel) vérifie-t-il, si nécessaire, une de ces conditions (hors cas particuliers) ?",
-                                "Un [lien ou bouton adjacent](#lien-ou-bouton-adjacent), clairement identifiable, contient l’adresse ([url](#url)) d’une page contenant une alternative.",
+                                "Un [lien ou bouton adjacent](#lien-ou-bouton-adjacent), clairement identifiable, contient l’adresse ([URL](#url)) d’une page contenant une alternative.",
                                 "Un [lien ou bouton adjacent](#lien-ou-bouton-adjacent), clairement identifiable, permet d’accéder à une alternative dans la page."
                             ],
                             "2": [
@@ -2299,9 +2299,9 @@
                             ],
                             "3": [
                                 "Dans chaque page web, l’utilisation des espaces vérifie-t-elle ces conditions ?",
-                                "Les espaces ne sont pas utilisés pour séparer les lettres d’un mot.",
-                                "Les espaces ne sont pas utilisés pour simuler des tableaux.",
-                                "Les espaces ne sont pas utilisés pour simuler des colonnes de texte."
+                                "Les espaces ne sont pas utilisées pour séparer les lettres d’un mot.",
+                                "Les espaces ne sont pas utilisées pour simuler des tableaux.",
+                                "Les espaces ne sont pas utilisées pour simuler des colonnes de texte."
                             ]
                         },
                         "references": [
@@ -2523,7 +2523,7 @@
                             "1": [
                                 "Dans chaque page web, chaque contenu caché vérifie-t-il une de ces conditions ?",
                                 "Le [contenu caché](#contenu-cache) a vocation à être ignoré par les technologies d’assistance.",
-                                "Le [contenu caché](#contenu-cache) n’a pas vocation à être ignoré par les technologies d’assistances et est rendu restituable par les technologies d’assistance suite à une action de l’utilisateur réalisable au clavier ou par tout dispositif de pointage sur un élément précédent le contenu caché ou suite à un repositionnement du focus dessus."
+                                "Le [contenu caché](#contenu-cache) n’a pas vocation à être ignoré par les technologies d’assistance et est rendu restituable par les technologies d’assistance suite à une action de l’utilisateur réalisable au clavier ou par tout dispositif de pointage sur un élément précédent le contenu caché ou suite à un repositionnement du focus dessus."
                             ]
                         },
                         "technicalNote": [
@@ -2963,7 +2963,7 @@
                                 "Les champs de même nature vérifient-ils l’une de ces conditions, si nécessaire ?",
                                 "Les champs de même nature sont regroupés dans une balise <fieldset>.",
                                 "Les champs de même nature sont regroupés dans une balise possédant un attribut WAI-ARIA `role=\"group\"`.",
-                                "Les champs de même nature de type radio (<input type=\"radio\"> ou balises possédant un attribut WAI-ARIA role=\"radio\") sont regroupés dans une balise possédant un attribut WAI-ARIA role=\"radiogroup\" ou \"group\"."
+                                "Les champs de même nature de type radio (`<input type=\"radio\">` ou balises possédant un attribut WAI-ARIA role=\"radio\") sont regroupés dans une balise possédant un attribut WAI-ARIA role=\"radiogroup\" ou \"group\"."
                             ]
                         },
                         "references": [
@@ -3338,8 +3338,8 @@
                         "tests": {
                             "1": [
                                 "Dans chaque [ensemble de pages](#ensemble-de-pages), chaque page disposant d’un [menu ou de barres de navigation](#menu-et-barre-de-navigation) vérifie-t-elle ces conditions (hors cas particuliers) ?",
-                                "Le [menu ou de barres de navigation](#menu-et-barre-de-navigation) est toujours à la même place dans la présentation.",
-                                "Le [menu ou de barres de navigation](#menu-et-barre-de-navigation) se présente toujours dans le même ordre relatif dans le code source."
+                                "Le [menu ou les barres de navigation](#menu-et-barre-de-navigation) sont toujours à la même place dans la présentation.",
+                                "Le [menu ou les barres de navigation](#menu-et-barre-de-navigation) se présentent toujours dans le même ordre relatif dans le code source."
                             ]
                         },
                         "particularCases": [
@@ -3676,7 +3676,7 @@
                         },
                         "particularCases": [
                             "Il existe une gestion de cas particuliers lorsque la limite de temps est essentielle, notamment lorsqu’elle ne pourrait pas être supprimée sans changer fondamentalement le contenu ou les fonctionnalités liées au contenu.",
-                            "Dans ces situations, le critère est non applicable. Par exemple, le rafraîchissement d’un flux RSS dans une page n’est pas une limite de temps essentielle ; le critère est applicable. En revanche, une redirection automatique qui amène vers la nouvelle version d’une page à partir d’une [url](#url) obsolète est essentielle ; le critère est non applicable."
+                            "Dans ces situations, le critère est non applicable. Par exemple, le rafraîchissement d’un flux RSS dans une page n’est pas une limite de temps essentielle ; le critère est applicable. En revanche, une redirection automatique qui amène vers la nouvelle version d’une page à partir d’une [URL](#url) obsolète est essentielle ; le critère est non applicable."
                         ],
                         "references": [
                             {
