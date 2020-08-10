@@ -837,7 +837,7 @@
                             {
                                 "wcag": [
                                     "9.1.2.1 / 1.2.1 Audio-only and Video-only (Prerecorded) (A)",
-                                    "9.1.2.3 / 1.2.3 Audio Description and Media Alternative (Prerecorded) (A)"
+                                    "9.1.2.3 / 1.2.3 Audio Description or Media Alternative (Prerecorded) (A)"
                                 ]
                             },
                             {
@@ -887,7 +887,7 @@
                             {
                                 "wcag": [
                                     "9.1.2.1 / 1.2.1 Audio-only and Video-only (Prerecorded) (A)",
-                                    "9.1.2.3 / 1.2.3 Audio Description and Media Alternative (Prerecorded) (A)"
+                                    "9.1.2.3 / 1.2.3 Audio Description or Media Alternative (Prerecorded) (A)"
                                 ]
                             },
                             {
@@ -2155,7 +2155,7 @@
                             {
                                 "wcag": [
                                     "9.1.3.1 / 1.3.1 Info and Relationships (A)",
-                                    "9.2.4.1 / 2.4.1 Bypass Block (A)",
+                                    "9.2.4.1 / 2.4.1 Bypass Blocks (A)",
                                     "9.2.4.6 / 2.4.6 Headings and Labels (AA)",
                                     "9.4.1.2 / 4.1.2 Name, Role, Value (A)"
                                 ]
