@@ -248,7 +248,7 @@
                             ]
                         },
                         "Cet ordre doit être utilisé pour l'évaluation de la pertinence du « nom accessible » du bouton. Par exemple, même dans le cas de la présence d'un `title` et d'un passage de texte référencé par `aria-labelledby` sur le même bouton, c'est le passage de texte référencé par `aria-labelledby` qui doit être évalué.",
-                        "Référence : [Accessible name and description calculation](http://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-calculation).",
+                        "Référence : [Accessible name and description calculation](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation).",
                         "Par ailleurs, un « nom accessible » sera considéré comme non-pertinent s'il ne reprend pas le texte visible du bouton. Par exemple :",
                         "`<button aria-label=\"confirmer la saisie\">valider la saisie</button>`",
                         "sera considéré comme non conforme au [critère 11.2](#crit-11-2)."
@@ -664,7 +664,7 @@
                             ]
                         },
                         "Cet ordre doit être utilisé pour l'évaluation de la pertinence de l'étiquette ([critère 11.2](#crit-11-2)). Par exemple, même dans le cas de la présence d'un `<label>`, c'est le passage de texte référencé par `aria-labelledby` qui doit être pris en compte.",
-                        "Référence : [Accessible name and description calculation](http://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-calculation).",
+                        "Référence : [Accessible name and description calculation](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation).",
                         "Note importante au sujet de l'utilisation de `placeholder` : lorsque l'attribut `placeholder` est présent, il est susceptible d'être restitué à la place de l'attribut `title`. Par conséquent, lorsque ces deux attributs `title` et `placeholder` sont présents, ils doivent être identiques.",
                         "Note au sujet des étiquettes liées par `aria-labelledby` : Il s'agit d'un ou de plusieurs passages de texte identifiés par des `id` et liés par `aria-labelledby` sur le modèle suivant : `aria-labelledby=\"ID1 ID2 ID3…\"`. Pour assurer une compatibilité maximum avec les agents utilisateurs, notamment Internet Explorer 11, il est recommandé d'implémenter un `tabindex=\"-1\"` sur les passages de textes qui ne sont pas des éléments interactifs (bouton, liens, éléments de formulaires, etc.).",
                         "Note : l'attribut `aria-label` ne peut pas être utilisé pour indiquer le caractère obligatoire d'un champ."
@@ -928,7 +928,7 @@
                                 "La zone d'[en-tête](#zone-d-en-tete) doit avoir un attribut WAI-ARIA `role=\"banner\"`;",
                                 "Le [menu de navigation](#menu-et-barre-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"`;",
                                 "La zone de [contenu principal](#zone-de-contenu-principal) doit avoir un attribut WAI-ARIA `role=\"main\"`;",
-                                "La zone de [pied de page](#pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"`;",
+                                "La zone de [pied de page](#zone-de-pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"`;",
                                 "La zone de [moteur de recherche](#moteur-de-recherche-interne-a-un-site-web) sur le site doit avoir un attribut WAI-ARIA `role=\"search\"`."
                             ]
                         },
