@@ -477,7 +477,7 @@
                 {
                     "dt": "Contexte du lien",
                     "dd": [
-                        "Le contexte du lien représente les informations supplémentaires (on parle d'informations de contexte) qui peuvent être mises en relation par un programme informatique avec l'[intitulé du lien](#intitule-du-lien). Les informations de contexte qui permettent de compléter l'[intitulé du lien](#intitule-du-lien) sont les suivantes :",
+                        "Le contexte du lien représente les informations supplémentaires (on parle d'informations de contexte) qui peuvent être mises en relation par un programme informatique avec l'[intitulé du lien](#intitule-ou-nom-accessible-de-lien). Les informations de contexte qui permettent de compléter l'[intitulé du lien](#intitule-ou-nom-accessible-de-lien) sont les suivantes :",
                         {
                             "ul": [
                                 "Le contenu de la phrase dans laquelle le lien texte est présent;",
@@ -488,7 +488,7 @@
                                 "Le contenu de la cellule de donnée (balise `<td>`) dans laquelle le lien texte est présent;"
                             ]
                         },
-                        "Note 1 : l'un des 6 contextes de lien combiné à l'[intitulé du lien](#intitule-du-lien) doit permettre de comprendre la fonction et la destination du lien.",
+                        "Note 1 : l'un des 6 contextes de lien combiné à l'[intitulé du lien](#intitule-ou-nom-accessible-de-lien) doit permettre de comprendre la fonction et la destination du lien.",
                         "Note 2 : RGAA considère que des liens particuliers comme des liens de type `mailto` (qui génère un lien sous la forme d'une adresse email cliquable) sont suffisamment explicites et ne requièrent pas de signaler que l'action consiste à envoyer un email. L'attention des auteurs est appelée sur le fait que cette règle générale peut être adaptée au contexte, par exemple si la page contient plusieurs adresses email cliquables affectées de comportements différents (envoyer un email via le client de messagerie pour l'une, accéder à un formulaire pour l'autre) il peut être nécessaire de donner des informations complémentaires sur l'action du lien afin de différencier leurs comportements."
                     ]
                 },
