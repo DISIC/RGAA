@@ -925,7 +925,7 @@
                         "Les rôles doivent être définis dans le document en fonction de la nature de la zone :",
                         {
                             "ul": [
-                                "La zone d'[en-tête](#en-tete) doit avoir un attribut WAI-ARIA `role=\"banner\"`;",
+                                "La zone d'[en-tête](#zone-d-en-tete) doit avoir un attribut WAI-ARIA `role=\"banner\"`;",
                                 "Le [menu de navigation](#menu-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"`;",
                                 "La zone de [contenu principal](#zone-de-contenu-principal) doit avoir un attribut WAI-ARIA `role=\"main\"`;",
                                 "La zone de [pied de page](#pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"`;",
