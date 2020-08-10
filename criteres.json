@@ -1275,10 +1275,10 @@
                 {
                     "criterium": {
                         "number": 1,
-                        "title": "Chaque [tableau de données complexe](#tableau-de-donnees-complexe) a-t-il un [résumé](#resume) ?",
+                        "title": "Chaque [tableau de données complexe](#tableau-de-donnees-complexe) a-t-il un [résumé](#resume-de-tableau) ?",
                         "tests": {
                             "1": [
-                                "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe) un [résumé](#resume) est-il disponible ?"
+                                "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe) un [résumé](#resume-de-tableau) est-il disponible ?"
                             ]
                         },
                         "references": [
@@ -1298,10 +1298,10 @@
                 {
                     "criterium": {
                         "number": 2,
-                        "title": "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe) ayant un [résumé](#resume), celui-ci est-il pertinent ?",
+                        "title": "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe) ayant un [résumé](#resume-de-tableau), celui-ci est-il pertinent ?",
                         "tests": {
                             "1": [
-                                "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe) ayant un [résumé](#resume), celui-ci est-il pertinent ?"
+                                "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe) ayant un [résumé](#resume-de-tableau), celui-ci est-il pertinent ?"
                             ]
                         },
                         "references": [
