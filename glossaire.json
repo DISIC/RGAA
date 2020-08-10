@@ -929,7 +929,7 @@
                                 "Le [menu de navigation](#menu-et-barre-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"`;",
                                 "La zone de [contenu principal](#zone-de-contenu-principal) doit avoir un attribut WAI-ARIA `role=\"main\"`;",
                                 "La zone de [pied de page](#pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"`;",
-                                "La zone de [moteur de recherche](#moteur-de-recherche) sur le site doit avoir un attribut WAI-ARIA `role=\"search\"`."
+                                "La zone de [moteur de recherche](#moteur-de-recherche-interne-a-un-site-web) sur le site doit avoir un attribut WAI-ARIA `role=\"search\"`."
                             ]
                         },
                         "Note 1 : Si la plupart des lecteurs d'écran mettent à disposition ces fonctionnalités, les navigateurs n'ont pas encore proposé de fonctionnalité de navigation dédiée pour les utilisateurs qui ne peuvent pas utiliser la souris. La mise en place des liens d'évitement reste donc à privilégier par rapport aux landmarks.",
