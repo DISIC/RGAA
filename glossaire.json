@@ -926,7 +926,7 @@
                         {
                             "ul": [
                                 "La zone d'[en-tête](#zone-d-en-tete) doit avoir un attribut WAI-ARIA `role=\"banner\"`;",
-                                "Le [menu de navigation](#menu-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"`;",
+                                "Le [menu de navigation](#menu-et-barre-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"`;",
                                 "La zone de [contenu principal](#zone-de-contenu-principal) doit avoir un attribut WAI-ARIA `role=\"main\"`;",
                                 "La zone de [pied de page](#pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"`;",
                                 "La zone de [moteur de recherche](#moteur-de-recherche) sur le site doit avoir un attribut WAI-ARIA `role=\"search\"`."
