@@ -1355,7 +1355,7 @@
                                 "En activant l'élément par un raccourci clavier (`accesskey`)."
                             ]
                         },
-                        "Certains éléments reçoivent naturellement le focus, par exemple : `<a href>`, `<area href>`, `<button>`, `<input>`, `<object>`, `<select>`, `<label>`, `<legend>`, `<optgroup>`, `<option>` et `<textarea>`. Le comportement de l'élément, lors de la prise de focus, dépend de sa nature ; un lien, par exemple, devra être activé après la prise de focus (sauf utilisation de script). En revanche, un élément de formulaire, comme `<textarea>`, devra autoriser la saisie suite à la prise de focus. Les éléments <label> et <legend> ne reçoivent la prise de focus que via le pointeur souris. Pour l'élément `<label>`, le comportement attendu est de transférer la prise de focus sur l'élément qui lui est associé.",
+                        "Certains éléments reçoivent naturellement le focus, par exemple : `<a href>`, `<area href>`, `<button>`, `<input>`, `<object>`, `<select>`, `<label>`, `<legend>`, `<optgroup>`, `<option>` et `<textarea>`. Le comportement de l'élément, lors de la prise de focus, dépend de sa nature ; un lien, par exemple, devra être activé après la prise de focus (sauf utilisation de script). En revanche, un élément de formulaire, comme `<textarea>`, devra autoriser la saisie suite à la prise de focus. Les éléments `<label>` et `<legend>` ne reçoivent la prise de focus que via le pointeur souris. Pour l'élément `<label>`, le comportement attendu est de transférer la prise de focus sur l'élément qui lui est associé.",
                         "Note 1 : la spécification WAI-ARIA étend le rôle attribué à l'attribut `tabindex` en définissant que tout élément HTML peut acquérir la possibilité de recevoir le focus en lui attribuant la valeur `tabindex=\"0\"`. En revanche, aucun comportement n'est attribué via la seule présence de `tabindex`. De même, la valeur `tabindex=\"-1\"` lorsqu'elle est utilisée sur un élément recevant naturellement le focus retire l'élément qui en est affecté du plan de tabulation en inhibant sa capacité à signaler la « prise de focus ». L'utilisation de `tabindex`, conformément à la spécification WAI-ARIA, peut valider certains tests relatifs à la gestion du focus de tabulation, notamment.",
                         "Note 2 : l'indication visuelle du focus du navigateur ne doit pas être pas supprimée ou dégradée sauf si un style du focus défini par l'auteur est visible et suffisamment contrasté au regard du [critère 3.3](#crit-3-3)."
                     ]
@@ -1382,7 +1382,7 @@
                     "dt": "Raccourci clavier",
                     "dd": [
                         "Un moyen de déclencher une action associée à un composant de l'interface utilisateur en appuyant sur une ou plusieurs touches.",
-                        "Note : les “<span lang=\"en\">Access keys<span>” (attribut HTML `accesskey`) sont bien des raccourcis clavier, mais ils ne sont pas concernés par le [critère 12.15](#crit-12-15) dans la mesure où leur activation nécessite déjà l'usage de touches de modification (variables suivant les navigateurs)."
+                        "Note : les “<span lang=\"en\">Access keys</span>” (attribut HTML `accesskey`) sont bien des raccourcis clavier, mais ils ne sont pas concernés par le [critère 12.15](#crit-12-15) dans la mesure où leur activation nécessite déjà l'usage de touches de modification (variables suivant les navigateurs)."
                     ]
                 },
                 {
@@ -1638,7 +1638,7 @@
                         "`à l'aide de plusieurs balises <br>`",
                         "`</div>`",
                         "Note 2 : WAI-ARIA propose un rôle `presentation` permettant de supprimer la sémantique d'un élément, par exemple `<h1 role=\"presentation\">Titre</h1>`. Dans ce cas, le texte sera correctement restitué mais son rôle de titre ne le sera plus. L'utilisation du rôle `presentation` peut être requise lorsque l'on utilise un motif de conception WAI-ARIA.",
-                        "Le rôle WAI-ARIA `presentation` peut être également utilisé pour supprimer la sémantique d'un élément lorsque ce dernier est utilisé uniquement à des fins de présentation, par exemple `<blockquote role=\"presentation\">` aura le même effet qu'une absence d'élément <blockquote>.",
+                        "Le rôle WAI-ARIA `presentation` peut être également utilisé pour supprimer la sémantique d'un élément lorsque ce dernier est utilisé uniquement à des fins de présentation, par exemple `<blockquote role=\"presentation\">` aura le même effet qu'une absence d'élément `<blockquote>`.",
                         "Même si cette utilisation est fortement déconseillée (dans le cas de technologie d'assistance qui n'implémenteraient pas WAI-ARIA par exemple) elle peut être considérée comme conforme à WCAG. En revanche l'utilisation d'un rôle WAI-ARIA `presentation` sur un élément dont la nature (par exemple la sémantique) est essentielle à la compréhension du contenu est une violation des règles WCAG (particulièrement de l'échec [F92](https://www.w3.org/WAI/WCAG21/Techniques/failures/F92)) et invalide le critère."
                     ]
                 },
