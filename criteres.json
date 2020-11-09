@@ -3038,10 +3038,10 @@
                         "title": "Dans chaque formulaire, les items de même nature d'une liste de choix sont-ils regroupées de manière pertinente ?",
                         "tests": {
                             "1": [
-                                "Pour chaque balise `<select>`, les items de même nature d'une liste de choix sont-ils regroupés avec une balise <optgroup>, si nécessaire ?"
+                                "Pour chaque balise `<select>`, les items de même nature d'une liste de choix sont-ils regroupés avec une balise `<optgroup>`, si nécessaire ?"
                             ],
                             "2": [
-                                "Dans chaque balise `<select>`, chaque balise <optgroup> possède-t-elle un attribut label ?"
+                                "Dans chaque balise `<select>`, chaque balise `<optgroup>` possède-t-elle un attribut label ?"
                             ],
                             "3": [
                                 "Pour chaque balise `<optgroup>` ayant un attribut label, le contenu de l'attribut label est-il pertinent ?"
