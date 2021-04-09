@@ -1,10 +1,10 @@
-# Critères et glossaire de la version 4 du RGAA
+# Critères et glossaire de la version 4.0 du RGAA
 
-Ce dépôt contient une version des critères et du glossaire du [RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) 4 au format JSON.
+Ce dépôt contient une version des critères et du glossaire du [RGAA] 4.0 au format JSON.
 
 ## Fichier criteres.json
 
-Le fichier `criteres.json` contient la liste des 106 [critères du RGAA 4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/#contenu) regroupés par thématiques. 
+Le fichier `criteres.json` contient la liste des 106 [critères du RGAA 4.0] regroupés par thématiques. 
 
 Chaque critère RGAA contient les informations suivantes :
 
@@ -19,7 +19,7 @@ Chaque critère RGAA contient les informations suivantes :
 
 ## glossaire.json
 
-Le fichier `glossaire.json` contient les [entrées de glossaire](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#contenu) utilisées dans le fichier `criteres.json`.
+Le fichier `glossaire.json` contient les [entrées de glossaire] utilisées dans le fichier `criteres.json`pour la version RGAA 4.0
 
 Ces entrées sont regroupées par ordre alphabétique à la manière d'un abécédaire.
 
