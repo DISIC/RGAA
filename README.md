@@ -16,19 +16,19 @@ Le fichier `RGAA-v4.0.odt` représente la version 4.0 de référence du RGAA en 
 Le fichier `RGAA-v4.0.pdf` représente la version 4.0 de référence du RGAA en format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
 
 * ### Fichier rgaa4.0.modele-de-grille-d-audit.ods
-Le fichier `rgaa4.0.modele-de-grille-d-audit.ods` fournit un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_).
+Le fichier `rgaa4.0.modele-de-grille-d-audit.ods` fournit un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS.
 
 * ### Fichier rgaa4-2019-modele-rapport-audit.odt
-Le fichier `rgaa4-2019-modele-rapport-audit.odt` fournit un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) en format ODT.
+Le fichier `rgaa4-2019-modele-rapport-audit.odt` fournit un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT.
 
 * ### Fichier rgaa4-2019-modele-rapport-audit.pdf
-Le fichier `rgaa4-2019-modele-rapport-audit.pdt` fournit un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) en format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
+Le fichier `rgaa4-2019-modele-rapport-audit.pdt` fournit un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
 
 * ### Fichier rgaa4-2019-exemple-declaration.odt
-Le fichier `rgaa4-2019-exemple-declaration.odt` fournit un exemple pour la rédaction d'une déclaration d'accessibilité en format ODT.
+Le fichier `rgaa4-2019-exemple-declaration.odt` fournit un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT.
 
 * ### Fichier rgaa4-2019-exemple-declaration.pdf
-Le fichier `rgaa4-2019-exemple-declaration.pdf` fournit un exemple pour la rédaction d'une déclaration d'accessibilité en format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
+Le fichier `rgaa4-2019-exemple-declaration.pdf` fournit un exemple pour la rédaction d'une déclaration d'accessibilité au format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
 
 *****************
 
@@ -79,6 +79,10 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 |obligations.md    | pour les pages de règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA sur le site de la DINUM
 |questions.md       | pour la page questions du RGAA sur le site de la DINUM
 
+* ### Fichier accueil.md
+
+Le fichier `accueil.md` correspond à la page d'accueil qui permet de télécharger le document du RGAA 4.0 au format ODT ou au format PDF, et d'aller consulter le RGAA 4.0 en version HTML sur le site de la DINUM.
+
 * ### Fichier criteres.json
 
 Le fichier `criteres.json` contient la liste des 106 critères du RGAA 4.0 regroupés par thématiques. 
@@ -108,10 +112,10 @@ Il est à noter que pour le fichier `criteres.json` :
 
 * La propriété `tests` a pour contenu un objet qui regroupe l'ensemble des tests du critère.
 * Chaque test est référencé directement par son numéro (`1`, par exemple) et a pour valeur : 
-  * Soit une chaîne de caractères lorsque le test ne possède pas de conditions;
+  * Soit une chaîne de caractères lorsque le test ne possède pas de conditions ;
   * Soit un tableau de chaînes de caractères lorsqu'il possède des condtions. Dans ce cas, le premier élément du tableau correspond à l'intitulé du test et les éléments suivants aux conditions associées.
 * Les sections `technicalNote` et `particularCases` ont pour valeur un tableau avec pour éléments :
-  * Soit une chaîne de caractères correspondant à l'équivalent d'un paragraphe;
+  * Soit une chaîne de caractères correspondant à l'équivalent d'un paragraphe ;
   * Soit un objet avec pour contenu une propriété `ol` ou `ul` correspondant à l'équivalent d'une liste ordonnée ou non ordonnée et ayant pour valeur un tableau contenant soit une chaîne de caractères, soit un objet avec pour contenu une propriété `ol` ou `ul` correspondant alors à un tableau imbriqué.
 
 Il est à noter que pour le fichier `glossaire.json` :
@@ -123,6 +127,41 @@ Il est à noter que pour le fichier `glossaire.json` :
 De manière générale, le contenu de certaines propriétés JSON contient un balisage interne en markdown :
 * Les liens qu'ils soient internes ou externes; par exemple, le renvoi vers un critère du fichier `criteres.json` est représenté ainsi : `[critère 9.1](#crit-9-1)`.
 * L'indication d'un terme ou d'une instruction relevant d'un langage informatique est signalée au moyen du délimiteur accent grave (`).
+
+* ### Fichier criteres.html
+
+Le fichier `criteres.html` permet d'afficher les critères de la version HTML du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG.
+
+* ### Fichier documentation.md
+
+Le fichier `documentation.md` correspond à une page _temporaire_ Documentation RGAA sur le site de la DINUM.
+
+* ### Fichier kit.md
+
+Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
+* un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS ;
+* un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT ou au format PDF ;
+* un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT ou au format PDF.
+
+* ### Fichier methode.md
+
+Le fichier `methode.md` correspond à la page d'introduction de la rubrique Méthode technique du RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier methodologie.md
+
+Le fichier `methodologie.md` correspond à la page Méthodologie de test du RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier notes-revision.md
+
+Le fichier `notes-revision.md` correspond à la page des notes de révision du RGAA 3 2017 vers le RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier obligations.md
+
+Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier questions.md
+
+Le fichier `questions.md` correspond à la page Questions du RGAA 4.0 en version HTML sur le site de la DINUM.
 
 ## Licence
 
