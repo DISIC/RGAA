@@ -67,7 +67,7 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 
 | NOM du fichier    | OBJET du fichier |
 |:------------------|:-------|
-|accueil.md        | pour la page d'accueil de la publication du RGAA sur le site de la DINUM incluant le sommaire de navigation
+|accueil.md        | pour la page d'accueil de la publication du RGAA sur le site de la DINUM
 |**_criteres.json_**     | pour les pages HTML des critères et tests du RGAA 4
 |**_glossaire.json_**    | pour les autres pages HTML du RGAA 4
 |criteres.html     | pour gérer un filtre d'affichage des critères du RGAA sur le site de la DINUM
