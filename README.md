@@ -94,7 +94,7 @@ Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre 
 Le fichier `methode.md` correspond à la page d'introduction de la rubrique Méthode technique du RGAA 4.0 en version HTML sur le site de la DINUM.
 
 * ### Fichier [criteres.html](criteres.html "Télécharger (161 Ko)")
-Le fichier `criteres.html` permet d'afficher les critères de la version HTML du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG.
+Le fichier `criteres.html` permet de mettre un filtre d'affichage des critères du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG.
 
 * ### Fichier [kit.md](kit.md "Télécharger (106 Ko)")
 Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
