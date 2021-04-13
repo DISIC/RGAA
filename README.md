@@ -9,7 +9,7 @@ Le RGAA 4.0 est mis à disposition sous plusieurs formats :
 __À noter__ : le site web de la DINUM met à disposition le RGAA pour la version _en cours_. Les fichiers de référence des versions antérieures du RGAA sont disponibles dans Github.
 
 ## Documents téléchargeables du RGAA 4.0
-* ### Fichier RGAA-v4.0.odt
+* ### Fichier [RGAA-v4.0.odt](RGAA-v4.0.odt "Télécharger le RGAA 4.0 au format ODT (296 Ko)")
 Le fichier `RGAA-v4.0.odt` représente la version 4.0 de référence du RGAA en format ODT.
 
 * ### Fichier RGAA-v4.0.pdf
@@ -116,7 +116,7 @@ Il est à noter que pour le fichier `criteres.json` :
 * La propriété `tests` a pour contenu un objet qui regroupe l'ensemble des tests du critère.
 * Chaque test est référencé directement par son numéro (`1`, par exemple) et a pour valeur : 
   * Soit une chaîne de caractères lorsque le test ne possède pas de conditions ;
-  * Soit un tableau de chaînes de caractères lorsqu'il possède des condtions. Dans ce cas, le premier élément du tableau correspond à l'intitulé du test et les éléments suivants aux conditions associées.
+  * Soit un tableau de chaînes de caractères lorsqu'il possède des conditions. Dans ce cas, le premier élément du tableau correspond à l'intitulé du test et les éléments suivants aux conditions associées.
 * Les sections `technicalNote` et `particularCases` ont pour valeur un tableau avec pour éléments :
   * Soit une chaîne de caractères correspondant à l'équivalent d'un paragraphe ;
   * Soit un objet avec pour contenu une propriété `ol` ou `ul` correspondant à l'équivalent d'une liste ordonnée ou non ordonnée et ayant pour valeur un tableau contenant soit une chaîne de caractères, soit un objet avec pour contenu une propriété `ol` ou `ul` correspondant alors à un tableau imbriqué.
