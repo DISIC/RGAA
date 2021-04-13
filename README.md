@@ -51,14 +51,19 @@ Les pages HTML sont organisées de la manière suivante :
 * Questions
 * Notes de révision
 
+## Création des pages HTML de la version web du RGAA 4.0
+
 Les pages HTML `Accueil`, `Obligations d'accessibilité`, `Méthode technique`, `Kit d'audit`, `Méthodologie de test`, `Documentation`, `Questions` et `Notes de révision` sont générées à partir de fichiers en format Markdown (md).
 
 Les pages HTML `Critères et tests` sont générées à partir du fichier `criteres.json` au format JSON.
 Les pages HTML `Glossaire`, `Environnement de test`, `Références` et `Licence` sont générées à partir du fichier `glossaire.json` au format JSON.
 
+Chaque fichier en format Markdown est mis à disposition individuellement ou regroupé dans un ensemble (_package_).
+Les fichiers en format JSON sont mis à disposition individuellement.
+
 ## Package RGAA 4 initial version web
 
-* ### Fichier [package RGAA 4 initial version web.zip](package.RGAA.4.initial.version .web.zip "Télécharger le package de la version web du RGAA 4.0 (355 Ko)")
+* ### Fichier [package RGAA 4 initial version web.zip](package%20RGAA%204%20initial%20version%20web.zip "Télécharger le package de la version web du RGAA 4.0 (355 Ko)")
 Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivants
 
 | NOM du fichier    | OBJET du fichier |
@@ -68,8 +73,6 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 |obligations.md    | pour les pages de règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA sur le site de la DINUM
 |methode.md        | pour la page d'introduction de la méthode technique du RGAA sur le site de la DINUM
 |criteres.html     | pour gérer un filtre d'affichage des critères du RGAA sur le site de la DINUM
-|**_criteres.json_**     | pour les pages HTML des critères et tests de la méthode technique du RGAA 4
-|**_glossaire.json_**    | pour les autres pages HTML de la méthode technique du RGAA 4
 |kit.md            | pour la page du kit d'audit du RGAA sur le site de la DINUM
 |methodologie.md   | pour la page de méthodologie de tests du RGAA sur le site de la DINUM
 |documentation.md  | pour la page de documentation du RGAA sur le site de la DINUM
@@ -92,6 +95,26 @@ Le fichier `methode.md` correspond à la page d'introduction de la rubrique Mét
 
 * ### Fichier [criteres.html](criteres.html "Télécharger (161 Ko)")
 Le fichier `criteres.html` permet d'afficher les critères de la version HTML du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG.
+
+* ### Fichier [kit.md](kit.md "Télécharger (106 Ko)")
+Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
+* un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS ;
+* un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT ou au format PDF ;
+* un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT ou au format PDF.
+
+* ### Fichier [methodologie.md](methodologie.md "Télécharger (520 Ko)")
+Le fichier `methodologie.md` correspond à la page Méthodologie de test du RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier [documentation.md](documentation.md "Télécharger (105 Ko)")
+Le fichier `documentation.md` correspond à une page _temporaire_ Documentation RGAA sur le site de la DINUM.
+
+* ### Fichier [questions.md](questions.md "Télécharger (104 Ko)")
+Le fichier `questions.md` correspond à la page Questions du RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier [notes-revision.md](notes-revision.md "Télécharger (1,01 Mo)")
+Le fichier `notes-revision.md` correspond à la page des notes de révision du RGAA 3 2017 vers le RGAA 4.0 en version HTML sur le site de la DINUM.
+
+**********************
 
 * ### Fichier [criteres.json](criteres.json "Télécharger (1,38 Mo)")
 Le fichier `criteres.json` contient la liste des 106 critères du RGAA 4.0 regroupés par thématiques.
@@ -133,24 +156,6 @@ Il est à noter que pour le fichier `glossaire.json` :
 De manière générale, le contenu de certaines propriétés JSON contient un balisage interne en markdown :
 * Les liens qu'ils soient internes ou externes; par exemple, le renvoi vers un critère du fichier `criteres.json` est représenté ainsi : `[critère 9.1](#crit-9-1)`.
 * L'indication d'un terme ou d'une instruction relevant d'un langage informatique est signalée au moyen du délimiteur accent grave (`).
-
-* ### Fichier [kit.md](kit.md "Télécharger (106 Ko)")
-Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
-* un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS ;
-* un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT ou au format PDF ;
-* un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT ou au format PDF.
-
-* ### Fichier [methodologie.md](methodologie.md "Télécharger (520 Ko)")
-Le fichier `methodologie.md` correspond à la page Méthodologie de test du RGAA 4.0 en version HTML sur le site de la DINUM.
-
-* ### Fichier [documentation.md](documentation.md "Télécharger (105 Ko)")
-Le fichier `documentation.md` correspond à une page _temporaire_ Documentation RGAA sur le site de la DINUM.
-
-* ### Fichier [questions.md](questions.md "Télécharger (104 Ko)")
-Le fichier `questions.md` correspond à la page Questions du RGAA 4.0 en version HTML sur le site de la DINUM.
-
-* ### Fichier [notes-revision.md](notes-revision.md "Télécharger (1,01 Mo)")
-Le fichier `notes-revision.md` correspond à la page des notes de révision du RGAA 3 2017 vers le RGAA 4.0 en version HTML sur le site de la DINUM.
 
 ********************
 
