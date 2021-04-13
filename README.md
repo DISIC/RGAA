@@ -68,8 +68,8 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 | NOM du fichier    | OBJET du fichier |
 |:------------------|:-------|
 |accueil.md        | pour la page d'accueil de la publication du RGAA sur le site de la DINUM
-|**_criteres.json_**     | pour les pages HTML des critères et tests du RGAA 4
-|**_glossaire.json_**    | pour les autres pages HTML du RGAA 4
+|**_criteres.json_**     | pour les pages HTML des critères et tests de la méthode technique du RGAA 4
+|**_glossaire.json_**    | pour les autres pages HTML de la méthode technique du RGAA 4
 |criteres.html     | pour gérer un filtre d'affichage des critères du RGAA sur le site de la DINUM
 |documentation.md  | pour la page de documentation du RGAA sur le site de la DINUM
 |kit.md            | pour la page du kit d'audit du RGAA sur le site de la DINUM
@@ -77,6 +77,7 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 |methodologie.md   | pour la page de méthodologie de tests du RGAA sur le site de la DINUM
 |notes-revision.md | pour la page des notes de révision du RGAA 3 2017 vers le RGAA 4 sur le site de la DINUM
 |obligations.md    | pour les pages de règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA sur le site de la DINUM
+|rgaa-accessibilite.html    | pour la création du menu de navigation dans les pages HTML du RGAA sur le site de la DINUM
 |questions.md       | pour la page questions du RGAA sur le site de la DINUM
 
 * ### Fichier accueil.md
@@ -85,7 +86,8 @@ Le fichier `accueil.md` correspond à la page d'accueil qui permet de téléchar
 
 * ### Fichier criteres.json
 
-Le fichier `criteres.json` contient la liste des 106 critères du RGAA 4.0 regroupés par thématiques. 
+Le fichier `criteres.json` contient la liste des 106 critères du RGAA 4.0 regroupés par thématiques.
+Il permet la création des pages HTML relatives aux critères et tests de la méthode technique du RGAA 4.0
 
 Chaque critère RGAA contient les informations suivantes :
 
@@ -101,6 +103,7 @@ Chaque critère RGAA contient les informations suivantes :
 * ### Fichier glossaire.json
 
 Le fichier `glossaire.json` contient les entrées de glossaire utilisées dans le fichier `criteres.json`.
+Il permet la création des pages HTML de la méthode technique du RGAA 4.0 relatives aux rubriques Glossaire, Environnement de test, Références et Licence.
 
 Ces entrées sont regroupées par ordre alphabétique à la manière d'un abécédaire.
 
@@ -158,6 +161,10 @@ Le fichier `notes-revision.md` correspond à la page des notes de révision du R
 * ### Fichier obligations.md
 
 Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA 4.0 en version HTML sur le site de la DINUM.
+
+* ### Fichier rgaa-accessibilite.html
+
+Le fichier `rgaa-accessibilite.html` permet de créer le menu de navigation dans les pages HTML du RGAA 4.0 sur le site de la DINUM.
 
 * ### Fichier questions.md
 
