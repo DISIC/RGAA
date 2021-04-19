@@ -72,7 +72,7 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 |accueil.md        | pour la page d'accueil de la publication du RGAA sur le site de la DINUM
 |obligations.md    | pour les pages de règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA sur le site de la DINUM
 |methode.md        | pour la page d'introduction de la méthode technique du RGAA sur le site de la DINUM
-|criteres.html     | pour gérer un filtre d'affichage des critères du RGAA sur le site de la DINUM
+|criteres.html     | pour la page de critères et tests de la méthode technique du RGAA avec un filtre d'affichage des critères du RGAA sur le site de la DINUM
 |kit.md            | pour la page du kit d'audit du RGAA sur le site de la DINUM
 |methodologie.md   | pour la page de méthodologie de tests du RGAA sur le site de la DINUM
 |documentation.md  | pour la page de documentation du RGAA sur le site de la DINUM
@@ -94,7 +94,7 @@ Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre 
 Le fichier `methode.md` correspond à la page d'introduction de la rubrique Méthode technique du RGAA 4.0 en version HTML sur le site de la DINUM.
 
 * ### Fichier [criteres.html](criteres.html "Télécharger le fichier criteres.html (161 Ko)")
-Le fichier `criteres.html` permet de proposer un filtre d'affichage des critères du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG.
+Le fichier `criteres.html` permet de proposer un filtre d'affichage des critères du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG. La page affiche la liste des critères et des tests qui est mise à jour à partir de criteres.json.
 
 * ### Fichier [kit.md](kit.md "Télécharger le fichier kid.md (106 Ko)")
 Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
