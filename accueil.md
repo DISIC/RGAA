@@ -1,5 +1,7 @@
 
-      
+
+<!-- table pour organisation des pages en fonction de la valeur de weight -->
+
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <article class="markdown-body entry-content container-lg" itemprop="text"><table data-table-type="yaml-metadata">
   <thead>
@@ -33,6 +35,8 @@
   </tr>
   </tbody>
 </table>
+
+<!-- début du texte pour page RGAA -->
 
 <p>Les services publics numériques et certains services privés <strong>ont l’obligation d’être accessibles de façon équivalente à tout citoyen</strong>, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un <strong>service numérique accessible</strong> est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous.</p>
 <p>Pour faciliter la mise en œuvre de <strong>l’accessibilité numérique</strong>, la <strong>DINSIC</strong> édite depuis 2009 le <strong>référentiel général d’amélioration de l’accessibilité – RGAA</strong>, créé pour mettre en œuvre <a href="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&amp;cidTexte=LEGITEXT000006051257" rel="nofollow">l’article 47 de la loi handicap de 2005</a> et son <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937" rel="nofollow">décret d’application</a> actualisé en 2019. Il fait régulièrement l’objet de nouvelles versions et mises à jour pour s’adapter aux évolutions du Web mais aussi aux changements de normes et réglementations.</p>
