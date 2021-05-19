@@ -46,11 +46,12 @@
 <li><a href="RGAA-v4.0.odt" rel="nofollow">Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.0 au format ODT (261 Ko).</a></li>
 <li>Consulter la version HTML du référentiel
 <ul>
-<li><a href="">Obligations d’accessibilité</a></li>
+ <!-- Mise à jours des href sur paths de numerique.gouv.fr à mettre -->
+<li><a href="obligations.md">Obligations d’accessibilité</a></li>
 <li>Méthode technique
 <ul>
-<li><a href="">Introduction</a></li>
-<li><a href="">Critères et tests</a></li>
+<li><a href="obligations.md">Introduction</a></li>
+<li><a href="criteres.html">Critères et tests</a></li>
 <li><a href="">Glossaire</a></li>
 <li><a href="">Environnement de test</a></li>
 <li><a href="">Références</a></li>
