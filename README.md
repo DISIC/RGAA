@@ -12,23 +12,23 @@ __À noter__ : le site web de la DINUM met à disposition le RGAA pour la versio
 * ### Fichier [RGAA-v4.0.odt](RGAA-v4.0.odt "Télécharger le RGAA 4.0 au format ODT (261 Ko)")
 Le fichier `RGAA-v4.0.odt` représente la version 4.0 de référence du RGAA en format ODT.
 
-* ### Fichier [RGAA-v4.0.pdf](RGAA-v4.0.pdf "Télécharger le RGAA 4.0 au format PDF (3,04 Mo)")
+* ### Fichier [RGAA-v4.0.pdf](RGAA-v4.0.pdf "Télécharger le RGAA 4.0 au format PDF (2,97 Mo)")
 Le fichier `RGAA-v4.0.pdf` représente la version 4.0 de référence du RGAA en format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
 
-* ### Fichier [rgaa4.0.modele-de-grille-d-audit.ods](rgaa4.0.modele-de-grille-d-audit.ods "Télécharger le modèle de grille d'audit RGAA 4.0 au format ODS (235 Ko)")
+* ### Fichier [rgaa4.0.modele-de-grille-d-audit.ods](rgaa4.0.modele-de-grille-d-audit.ods "Télécharger le modèle de grille d'audit RGAA 4.0 au format ODS (234 Ko)")
 
 Le fichier `rgaa4.0.modele-de-grille-d-audit.ods` fournit un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS.
 
-* ### Fichier [rgaa4-2019-modele-rapport-audit.odt](rgaa4-2019-modele-rapport-audit.odt "Télécharger le modèle de rapport d'audit RGAA 4 au format ODT (115 Ko)")
+* ### Fichier [rgaa4-2019-modele-rapport-audit.odt](rgaa4-2019-modele-rapport-audit.odt "Télécharger le modèle de rapport d'audit RGAA 4 au format ODT (49,4 Ko)")
 Le fichier `rgaa4-2019-modele-rapport-audit.odt` fournit un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT.
 
-* ### Fichier [rgaa4-2019-modele-rapport-audit.pdf](rgaa4-2019-modele-rapport-audit.pdf "Télécharger le modèle de rapport d'audit RGAA 4 au format PDF (117 Ko)")
+* ### Fichier [rgaa4-2019-modele-rapport-audit.pdf](rgaa4-2019-modele-rapport-audit.pdf "Télécharger le modèle de rapport d'audit RGAA 4 au format PDF (1,9 Mo)")
 Le fichier `rgaa4-2019-modele-rapport-audit.pdt` fournit un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
 
-* ### Fichier [rgaa4-2019-exemple-declaration.odt](rgaa4-2019-exemple-declaration.odt "Télécharger l'exemple de déclaration d'accessibilité au format ODT (115 Ko)")
+* ### Fichier [rgaa4-2019-exemple-declaration.odt](rgaa4-2019-exemple-declaration.odt "Télécharger l'exemple de déclaration d'accessibilité au format ODT (39,8 Ko)")
 Le fichier `rgaa4-2019-exemple-declaration.odt` fournit un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT.
 
-* ### Fichier [rgaa4-2019-exemple-declaration.pdf](rgaa4-2019-exemple-declaration.pdf "Télécharger l'exemple de déclaration d'accessibilité au format PDF (117 Ko)")
+* ### Fichier [rgaa4-2019-exemple-declaration.pdf](rgaa4-2019-exemple-declaration.pdf "Télécharger l'exemple de déclaration d'accessibilité au format PDF (202 Ko)")
 Le fichier `rgaa4-2019-exemple-declaration.pdf` fournit un exemple pour la rédaction d'une déclaration d'accessibilité au format PDF. Il résulte d'une conversion du fichier ODT en format PDF.
 
 *****************
@@ -81,37 +81,37 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 
 ## Téléchargement unitaire des fichiers
 
-* ### Fichier [rgaa-accessibilite.html](rgaa-accessibilite.html "Télécharger le fichier rgaa-accessibilite.html (139 Ko)")
+* ### Fichier [rgaa-accessibilite.html](rgaa-accessibilite.html "Télécharger le fichier rgaa-accessibilite.html (2,71 Ko)")
 Le fichier `rgaa-accessibilite.html` permet de créer le menu de navigation dans les pages HTML du RGAA 4.0 sur le site de la DINUM.
 
-* ### Fichier [accueil.md](accueil.md "Télécharger le fichier accueil.md (107 Ko)")
+* ### Fichier [accueil.md](accueil.md "Télécharger le fichier accueil.md (3,97 Ko)")
 Le fichier `accueil.md` correspond à la page d'accueil qui permet de télécharger le document du RGAA 4.0 au format ODT ou au format PDF, et d'aller consulter le RGAA 4.0 en version HTML sur le site de la DINUM.
 
-* ### Fichier [obligations.md](obligations.md "Télécharger le fichier obligations.md (157 Ko)")
+* ### Fichier [obligations.md](obligations.md "Télécharger le fichier obligations.md (54 Ko)")
 Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA 4.0 en version HTML sur le site de la DINUM.
 
-* ### Fichier [methode.md](methode.md "Télécharger le fichier methode.md (106 Ko)")
+* ### Fichier [methode.md](methode.md "Télécharger le fichier methode.md (2,85 Ko)")
 Le fichier `methode.md` correspond à la page d'introduction de la rubrique Méthode technique du RGAA 4.0 en version HTML sur le site de la DINUM.
 
-* ### Fichier [criteres.html](criteres.html "Télécharger le fichier criteres.html (161 Ko)")
+* ### Fichier [criteres.html](criteres.html "Télécharger le fichier criteres.html (56,9 Ko)")
 Le fichier `criteres.html` permet de proposer un filtre d'affichage des critères du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG. La page affiche la liste des critères et des tests qui est mise à jour à partir de criteres.json.
 
-* ### Fichier [kit.md](kit.md "Télécharger le fichier kid.md (106 Ko)")
+* ### Fichier [kit.md](kit.md "Télécharger le fichier kid.md (2,69 Ko)")
 Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
 * un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS ;
 * un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT ou au format PDF ;
 * un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT ou au format PDF.
 
-* ### Fichier [methodologie.md](methodologie.md "Télécharger le fichier methodologie.md (520 Ko)")
+* ### Fichier [methodologie.md](methodologie.md "Télécharger le fichier methodologie.md (417 Ko)")
 Le fichier `methodologie.md` correspond à la page Méthodologie de test du RGAA 4.0 en version HTML sur le site de la DINUM.
 
-* ### Fichier [documentation.md](documentation.md "Télécharger le fichier documentation.md (105 Ko)")
+* ### Fichier [documentation.md](documentation.md "Télécharger le fichier documentation.md (1,66 Ko)")
 Le fichier `documentation.md` correspond à une page _temporaire_ Documentation RGAA sur le site de la DINUM.
 
-* ### Fichier [questions.md](questions.md "Télécharger le fichier questions.md (104 Ko)")
+* ### Fichier [questions.md](questions.md "Télécharger le fichier questions.md (1 Ko)")
 Le fichier `questions.md` correspond à la page Questions du RGAA 4.0 en version HTML sur le site de la DINUM.
 
-* ### Fichier [notes-revision.md](notes-revision.md "Télécharger les notes de révision (1,01 Mo)")
+* ### Fichier [notes-revision.md](notes-revision.md "Télécharger les notes de révision (902 Ko)")
 Le fichier `notes-revision.md` correspond à la page des notes de révision du RGAA 3 2017 vers le RGAA 4.0 en version HTML sur le site de la DINUM.
 
 **********************
@@ -123,7 +123,7 @@ Les fichiers au format JSON correspondent __uniquement à la méthode technique_
   * Références
   * Licence
 
-### Fichier [criteres.json](criteres.json "Télécharger le fichier criteres.json (1,38 Mo)")
+### Fichier [criteres.json](criteres.json "Télécharger le fichier criteres.json (288 Ko)")
 Le fichier `criteres.json` contient la liste des 106 critères du RGAA 4.0 regroupés par thématiques.
 Il permet la création des pages HTML relatives aux critères et tests de la méthode technique du RGAA 4.0
 
@@ -137,7 +137,7 @@ Chaque critère RGAA contient les informations suivantes :
   * Références aux critères WCAG associés ;
   * Références aux techniques WCAG associées.
 
-### Fichier [glossaire.json](glossaire.json "Télécharger le fichier glossaire.json (681 Ko)")
+### Fichier [glossaire.json](glossaire.json "Télécharger le fichier glossaire.json (147 Ko)")
 Le fichier `glossaire.json` contient les entrées de glossaire utilisées dans le fichier `criteres.json`.
 Il permet la création des pages HTML de la méthode technique du RGAA 4.0 relatives aux rubriques Glossaire, Environnement de test, Références et Licence.
 
