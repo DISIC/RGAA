@@ -42,19 +42,19 @@
 <p>Pour faciliter la mise en œuvre de <strong>l’accessibilité numérique</strong>, la <strong>DINSIC</strong> édite depuis 2009 le <strong>référentiel général d’amélioration de l’accessibilité – RGAA</strong>, créé pour mettre en œuvre <a href="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&amp;cidTexte=LEGITEXT000006051257" rel="nofollow">l’article 47 de la loi handicap de 2005</a> et son <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937" rel="nofollow">décret d’application</a> actualisé en 2019. Il fait régulièrement l’objet de nouvelles versions et mises à jour pour s’adapter aux évolutions du Web mais aussi aux changements de normes et réglementations.</p>
 <p>La <strong>version 4 du RGAA</strong> a été arrêtée conjointement par la ministre chargée des personnes handicapées et le ministre chargé du numérique le 20 septembre 2019. Elle est structurée en <strong>2 parties</strong>. La première présente les <strong>obligations</strong> à respecter : elle s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité. La deuxième contient une liste de <strong>critères</strong> pour vérifier la conformité d’une page web : elle s’adresse aux auditeurs RGAA.</p>
 <ul>
-<li><a href="https://www.numerique.gouv.fr/uploads/RGAA-v4.0.pdf" rel="nofollow">Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.0 au format PDF (3 Mo).</a></li>
-<li><a href="https://www.numerique.gouv.fr/uploads/RGAA-v4.0.odt" rel="nofollow">Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.0 au format ODT (261 Ko).</a></li>
+<li><a href="RGAA-v4.0.pdf" rel="nofollow">Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.0 au format PDF (3 Mo).</a></li>
+<li><a href="RGAA-v4.0.odt" rel="nofollow">Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.0 au format ODT (261 Ko).</a></li>
 <li>Consulter la version HTML du référentiel
 <ul>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/obligations">Obligations d’accessibilité</a></li>
+<li><a href="">Obligations d’accessibilité</a></li>
 <li>Méthode technique
 <ul>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/methode">Introduction</a></li>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/methode/criteres">Critères et tests</a></li>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/methode/glossaire">Glossaire</a></li>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/methode/environnement">Environnement de test</a></li>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/methode/reference">Références</a></li>
-<li><a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/methode/licence">Licence</a></li>
+<li><a href="">Introduction</a></li>
+<li><a href="">Critères et tests</a></li>
+<li><a href="">Glossaire</a></li>
+<li><a href="">Environnement de test</a></li>
+<li><a href="">Références</a></li>
+<li><a href="">Licence</a></li>
 </ul>
 </li>
 </ul>
