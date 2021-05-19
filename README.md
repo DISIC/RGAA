@@ -63,7 +63,7 @@ Les fichiers en format JSON sont mis à disposition individuellement.
 
 ## Package RGAA 4 initial version web
 
-* ### Fichier [package RGAA 4 initial version web.zip](package%20RGAA%204%20initial%20version%20web.zip "Télécharger le package de la version web du RGAA 4.0 (355 Ko)")
+* ### Fichier [package RGAA 4 initial version web.zip](package%20RGAA%204%20initial%20version%20web.zip "Télécharger le package de la version web du RGAA 4.0 (143 Ko)")
 Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivants
 
 | NOM du fichier    | OBJET du fichier |
