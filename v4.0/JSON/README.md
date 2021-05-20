@@ -53,4 +53,4 @@ De manière générale, le contenu de certaines propriétés JSON contient un ba
 
 ## Licence
 
-Le contenu de ce dépôt est publié sous [licence Ouverte 2.0](LICENSE.md).
+Le contenu de ce dépôt est publié sous [licence Ouverte 2.0](https://github.com/DISIC/RGAA/blob/master/LICENSE.md).
