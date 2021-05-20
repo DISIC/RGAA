@@ -1,4 +1,4 @@
-<!-- table pour organisation des pages en fonction de la valeur de weight -->
+<!-- Table pour publication sur numerique.gouv.fr : organisation des pages en fonction de la valeur de weight -->
 
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <article class="markdown-body entry-content container-lg" itemprop="text"><table data-table-type="yaml-metadata">
@@ -45,10 +45,10 @@
 <li>Consulter la version HTML du référentiel
 <ul>
  <!-- Pour publication sur numerique.gouv.fr : Mettre à jour href sur paths de numerique.gouv.fr -->
-<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/md/obligations.md">Obligations d’accessibilité</a></li>
+<li><a href="obligations.md">Obligations d’accessibilité</a></li>
 <li>Méthode technique
 <ul>
-<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/md/obligations.md">Introduction</a></li>
+<li><a href="obligations.md">Introduction</a></li>
 <li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/criteres.html">Critères et tests</a></li>
 <li><a href="">Glossaire</a></li>
 <li><a href="">Environnement de test</a></li>
