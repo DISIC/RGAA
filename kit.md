@@ -33,7 +33,7 @@
   </tbody>
 </table>
 
-<p>La partie « <a href="https://github.com/DISIC/RGAA/blob/master/obligations.md">Evaluation de la conformité à la norme</a> » du RGAA contient les instructions pour mener à bien l’audit d’un site internet, intranet ou extranet (échantillonnage des pages, critères applicables, taux de conformité…).</p>
+<p>La partie « <a href="https://github.com/DISIC/RGAA/blob/master/obligations.md#norme-de-r%C3%A9f%C3%A9rence-et-niveau-de-conformit%C3%A9">Evaluation de la conformité à la norme</a> » du RGAA contient les instructions pour mener à bien l’audit d’un site internet, intranet ou extranet (échantillonnage des pages, critères applicables, taux de conformité…).</p>
 <p>Voici en complément, des outils et des modèles de documents pour réaliser un audit.</p>
 <ul>
 <li><a href="rgaa4-2019-modele-rapport-audit.odt" title="Modèle de rapport d’audit RGAA version 4, format ODT (51 Ko)">Modèle de rapport d’audit RGAA version 4</a>, format ODT (51 Ko)</li>
