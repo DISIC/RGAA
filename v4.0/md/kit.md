@@ -37,17 +37,17 @@
 
 <!-- Début de la page RGAA -->
       
-<p>La partie « <a href="https://github.com/DISIC/RGAA/blob/master/obligations.md#%C3%89valuation-de-la-conformit%C3%A9-%C3%A0-la-norme-de-r%C3%A9f%C3%A9rence">Evaluation de la conformité à la norme</a> » du RGAA contient les instructions pour mener à bien l’audit d’un site internet, intranet ou extranet (échantillonnage des pages, critères applicables, taux de conformité…).</p>
+<p>La partie « <a href="obligations.md#%C3%89valuation-de-la-conformit%C3%A9-%C3%A0-la-norme-de-r%C3%A9f%C3%A9rence">Evaluation de la conformité à la norme</a> » du RGAA contient les instructions pour mener à bien l’audit d’un site internet, intranet ou extranet (échantillonnage des pages, critères applicables, taux de conformité…).</p>
 <p>Voici en complément, des outils et des modèles de documents pour réaliser un audit.</p>
 <ul>
-<li><a href="rgaa4-2019-modele-rapport-audit.odt" title="Modèle de rapport d’audit RGAA version 4, format ODT (51 Ko)">Modèle de rapport d’audit RGAA version 4</a>, format ODT (51 Ko)</li>
-<li><a href="rgaa4-2019-modele-rapport-audit.pdf" title="Modèle de rapport d’audit RGAA version 4, format PDF (2 Mo)">Modèle de rapport d’audit RGAA version 4</a>, format PDF (2 Mo)</li>
-<li><a href="rgaa4-2019-exemple-declaration.odt" title="Exemple de déclaration d’accessibilité RGAA, format ODT (41 Ko)">Exemple de déclaration d’accessibilité RGAA</a>, format ODT (41 Ko)</li>
-<li><a href="rgaa4-2019-exemple-declaration.pdf" title="Exemple de déclaration d’accessibilité RGAA, format PDF (207 Ko)">Exemple de déclaration d’accessibilité RGAA</a>, format PDF (207 Ko)</li>
+<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/Documents/rgaa4-2019-modele-rapport-audit.odt" title="Modèle de rapport d’audit RGAA version 4, format ODT (51 Ko)">Modèle de rapport d’audit RGAA version 4</a>, format ODT (51 Ko)</li>
+<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/Documents/rgaa4-2019-modele-rapport-audit.pdf" title="Modèle de rapport d’audit RGAA version 4, format PDF (2 Mo)">Modèle de rapport d’audit RGAA version 4</a>, format PDF (2 Mo)</li>
+<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/Documents/rgaa4-2019-exemple-declaration.odt" title="Exemple de déclaration d’accessibilité RGAA, format ODT (41 Ko)">Exemple de déclaration d’accessibilité RGAA</a>, format ODT (41 Ko)</li>
+<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/Documents/rgaa4-2019-exemple-declaration.pdf" title="Exemple de déclaration d’accessibilité RGAA, format PDF (207 Ko)">Exemple de déclaration d’accessibilité RGAA</a>, format PDF (207 Ko)</li>
 </ul>
 <p>Le document "Grille d’audit RGAA version 4" a été corrigé et mis à jour. La présente version annule et remplace le document précédent ("rgaa4.0.grille-de-test.ods") :</p>
 <ul>
-<li><a href="rgaa4.0.modele-de-grille-d-audit.ods" title="Modèle de grille d’audit RGAA version 4, format ODS (239 Ko)">Modèle de grille d’audit RGAA version 4</a>, format ODS (240 Ko)</li>
+<li><a href="https://github.com/DISIC/RGAA/blob/master/v4.0/Documents/rgaa4.0.modele-de-grille-d-audit.ods" title="Modèle de grille d’audit RGAA version 4, format ODS (239 Ko)">Modèle de grille d’audit RGAA version 4</a>, format ODS (240 Ko)</li>
 </ul>
 </article>
   </div>
