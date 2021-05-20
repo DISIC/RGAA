@@ -68,51 +68,51 @@ Le fichier `package RGAA 4 initial version web.zip` contient les fichiers suivan
 
 | NOM du fichier    | OBJET du fichier |
 |:------------------|:-------|
-|rgaa-accessibilite.html    | pour la création du menu de navigation dans les pages HTML du RGAA sur le site de la DINUM
-|accueil.md        | pour la page d'accueil de la publication du RGAA sur le site de la DINUM
-|obligations.md    | pour les pages de règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA sur le site de la DINUM
-|methode.md        | pour la page d'introduction de la méthode technique du RGAA sur le site de la DINUM
-|criteres.html     | pour la page de critères et tests de la méthode technique du RGAA avec un filtre d'affichage des critères du RGAA sur le site de la DINUM
-|kit.md            | pour la page du kit d'audit du RGAA sur le site de la DINUM
-|methodologie.md   | pour la page de méthodologie de tests du RGAA sur le site de la DINUM
-|documentation.md  | pour la page de documentation du RGAA sur le site de la DINUM
-|questions.md       | pour la page questions du RGAA sur le site de la DINUM
-|notes-revision.md | pour la page des notes de révision du RGAA 3 2017 vers le RGAA 4 sur le site de la DINUM
+|rgaa-accessibilite.html    | pour la création du menu de navigation dans les pages HTML du RGAA
+|accueil.md        | pour la page d'accueil de la publication du RGAA
+|obligations.md    | pour les pages de règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA
+|methode.md        | pour la page d'introduction de la méthode technique du RGAA
+|criteres.html     | pour la page de critères et tests de la méthode technique du RGAA avec un filtre d'affichage des critères du RGAA
+|kit.md            | pour la page du kit d'audit du RGAA
+|methodologie.md   | pour la page de méthodologie de tests du RGAA
+|documentation.md  | pour la page de documentation du RGAA
+|questions.md       | pour la page questions du RGAA
+|notes-revision.md | pour la page des notes de révision du RGAA 3 2017 vers le RGAA 4
 
-## Téléchargement unitaire des fichiers
+## Consultation unitaire des fichiers
 
-* ### Fichier [rgaa-accessibilite.html](rgaa-accessibilite.html "Télécharger le fichier rgaa-accessibilite.html (2,71 Ko)")
-Le fichier `rgaa-accessibilite.html` permet de créer le menu de navigation dans les pages HTML du RGAA 4.0 sur le site de la DINUM.
+* ### Fichier [rgaa-accessibilite.html](rgaa-accessibilite.html "Voir le fichier rgaa-accessibilite.html (2,71 Ko)")
+Le fichier `rgaa-accessibilite.html` permet de créer le menu de navigation dans les pages HTML du RGAA 4.0
 
-* ### Fichier [accueil.md](accueil.md "Télécharger le fichier accueil.md (3,97 Ko)")
-Le fichier `accueil.md` correspond à la page d'accueil qui permet de télécharger le document du RGAA 4.0 au format ODT ou au format PDF, et d'aller consulter le RGAA 4.0 en version HTML sur le site de la DINUM.
+* ### Fichier [accueil.md](accueil.md "Voir le fichier accueil.md (3,97 Ko)")
+Le fichier `accueil.md` correspond à la page d'accueil qui permet de télécharger le document du RGAA 4.0 au format ODT ou au format PDF, et d'aller consulter le RGAA 4.0 en version HTML
 
-* ### Fichier [obligations.md](obligations.md "Télécharger le fichier obligations.md (54 Ko)")
-Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA 4.0 en version HTML sur le site de la DINUM.
+* ### Fichier [obligations.md](obligations.md "Voir le fichier obligations.md (54 Ko)")
+Le fichier `obligations.md` correspond à la rubrique Règles de mise en œuvre des obligations en matière d'accessibilité numérique du RGAA 4.0 en version HTML.
 
-* ### Fichier [methode.md](methode.md "Télécharger le fichier methode.md (2,85 Ko)")
-Le fichier `methode.md` correspond à la page d'introduction de la rubrique Méthode technique du RGAA 4.0 en version HTML sur le site de la DINUM.
+* ### Fichier [methode.md](methode.md "Voir le fichier methode.md (2,85 Ko)")
+Le fichier `methode.md` correspond à la page d'introduction de la rubrique Méthode technique du RGAA 4.0 en version HTML.
 
-* ### Fichier [criteres.html](criteres.html "Télécharger le fichier criteres.html (56,9 Ko)")
+* ### Fichier [criteres.html](criteres.html "Voir le fichier criteres.html (56,9 Ko)")
 Le fichier `criteres.html` permet de proposer un filtre d'affichage des critères du RGAA 4.0 avec un filtrage par thématique, avec ou sans les tests, par niveau A ou AA des WCAG. La page affiche la liste des critères et des tests qui est mise à jour à partir de criteres.json.
 
-* ### Fichier [kit.md](kit.md "Télécharger le fichier kid.md (2,69 Ko)")
-Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger sur le site de la DINUM :
+* ### Fichier [kit.md](kit.md "Voir le fichier kid.md (2,69 Ko)")
+Le fichier `kit.md` correspond à la page Kit d'audit qui permet de télécharger :
 * un modèle de grille de vérification des critères du RGAA 4.0 sur un échantillon de pages pour la réalisation d'une inspection d'accessibilité numérique (_audit_) au format ODS ;
 * un modèle de rapport de résultats d'une inspection d'accessibilité numérique (_audit_) au format ODT ou au format PDF ;
 * un exemple pour la rédaction d'une déclaration d'accessibilité au format ODT ou au format PDF.
 
-* ### Fichier [methodologie.md](methodologie.md "Télécharger le fichier methodologie.md (417 Ko)")
-Le fichier `methodologie.md` correspond à la page Méthodologie de test du RGAA 4.0 en version HTML sur le site de la DINUM.
+* ### Fichier [methodologie.md](methodologie.md "Voir le fichier methodologie.md (417 Ko)")
+Le fichier `methodologie.md` correspond à la page Méthodologie de test du RGAA 4.0 en version HTML.
 
-* ### Fichier [documentation.md](documentation.md "Télécharger le fichier documentation.md (1,66 Ko)")
-Le fichier `documentation.md` correspond à une page _temporaire_ Documentation RGAA sur le site de la DINUM.
+* ### Fichier [documentation.md](documentation.md "Voir le fichier documentation.md (1,66 Ko)")
+Le fichier `documentation.md` correspond à une page _temporaire_ Documentation RGAA.
 
-* ### Fichier [questions.md](questions.md "Télécharger le fichier questions.md (1 Ko)")
-Le fichier `questions.md` correspond à la page Questions du RGAA 4.0 en version HTML sur le site de la DINUM.
+* ### Fichier [questions.md](questions.md "Voir le fichier questions.md (1 Ko)")
+Le fichier `questions.md` correspond à la page Questions du RGAA 4.0 en version HTML.
 
-* ### Fichier [notes-revision.md](notes-revision.md "Télécharger les notes de révision (902 Ko)")
-Le fichier `notes-revision.md` correspond à la page des notes de révision du RGAA 3 2017 vers le RGAA 4.0 en version HTML sur le site de la DINUM.
+* ### Fichier [notes-revision.md](notes-revision.md "Voir les notes de révision (902 Ko)")
+Le fichier `notes-revision.md` correspond à la page des notes de révision du RGAA 3 2017 vers le RGAA 4.0 en version HTML.
 
 **********************
 ## Les fichiers au format JSON du RGAA 4.0
