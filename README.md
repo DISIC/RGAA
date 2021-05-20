@@ -50,7 +50,7 @@ La version en ligne du RGAA est publiée sur le site de la DINUM dans la rubriqu
 
 _Note : l'organisation des pages est modifiée en version 4.1_
 
-Les pages HTML organisées de la manière suivante :
+Les pages HTML sont organisées de la manière suivante :
 * Accueil
 * Obligations d'accessibilité
 * Méthode technique
