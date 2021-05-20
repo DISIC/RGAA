@@ -1,1 +1,1 @@
-Ce dossier contient les fichiers du RGAA 4.1
+Ce dossier contient les fichiers de la version 4.1 du RGAA
