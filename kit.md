@@ -33,7 +33,7 @@
   </tbody>
 </table>
 
-<p>La partie « <a href="/numerique-gouv/numerique.gouv.fr/blob/master/publications/rgaa-accessibilite/obligations/#%C3%89valuation-de-la-conformit%C3%A9-%C3%A0-la-norme-de-r%C3%A9f%C3%A9rence">Evaluation de la conformité à la norme</a> » du RGAA contient les instructions pour mener à bien l’audit d’un site internet, intranet ou extranet (échantillonnage des pages, critères applicables, taux de conformité…).</p>
+<p>La partie « <a href="https://github.com/DISIC/RGAA/master/obligations.md">Evaluation de la conformité à la norme</a> » du RGAA contient les instructions pour mener à bien l’audit d’un site internet, intranet ou extranet (échantillonnage des pages, critères applicables, taux de conformité…).</p>
 <p>Voici en complément, des outils et des modèles de documents pour réaliser un audit.</p>
 <ul>
 <li><a href="rgaa4-2019-modele-rapport-audit.odt" title="Modèle de rapport d’audit RGAA version 4, format ODT (51 Ko)">Modèle de rapport d’audit RGAA version 4</a>, format ODT (51 Ko)</li>
