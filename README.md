@@ -11,37 +11,6 @@ Les fichiers de référence des versions antérieures du RGAA sont disponibles d
 
 ## Consulter les Releases pour plus d'informations et accéder aux fichiers
 
-*****************
-
-## [version RGAA 4.0](https://github.com/DISIC/RGAA/releases/tag/v4.0)
-
-La version en ligne du RGAA est publiée sur le site de la DINUM dans la rubrique `Publications\rgaa_accessibilité`.
-Les pages HTML sont organisées de la manière suivante :
-* Accueil
-* Obligations d'accessibilité
-* Méthode technique
-  * Critères et tests
-  * Glossaire
-  * Environnement de test
-  * Références
-  * Licence
-* Kit d'audit
-* Méthodologie de test
-* Documentation
-* Questions
-* Notes de révision
-
-### Création des pages HTML de la version web du RGAA 4.0
-Les pages HTML sont générées à partir de fichiers en format Markdown et en format JSON.
-
-Les pages HTML `Accueil`, `Obligations d'accessibilité`, `Méthode technique`, `Kit d'audit`, `Méthodologie de test`, `Documentation`, `Questions` et `Notes de révision` sont générées à partir de fichiers en format Markdown (md).
-
-Les pages HTML `Critères et tests` sont générées à partir du fichier `criteres.json` au format JSON.
-Les pages HTML `Glossaire`, `Environnement de test`, `Références` et `Licence` sont générées à partir du fichier `glossaire.json` au format JSON.
-
-Chaque fichier en format Markdown est mis à disposition individuellement ou regroupé dans un ensemble (_package_).
-Les fichiers en format JSON sont mis à disposition individuellement.
-
 ********************
 
 ## [version RGAA 4.1](https://github.com/DISIC/RGAA/releases/tag/v4.1)
@@ -71,6 +40,37 @@ Les pages HTML sont organisées de la manière suivante :
 Les pages HTML sont générées à partir de fichiers en format Markdown et en format JSON.
 
 Les pages HTML `Accueil`, `Obligations d'accessibilité`, `Méthode technique`, `Kit d'audit`, `Méthodologie de test`, `Documentation`, `Questions`, `Annexe – Critères de succès triple A (AAA) des WCAG 2.1`, `Notes de révision du RGAA 3 2017 vers RGAA 4` et `Notes de révision du RGAA 4.0 vers RGAA 4.1` sont générées à partir de fichiers en format Markdown (md).
+
+Les pages HTML `Critères et tests` sont générées à partir du fichier `criteres.json` au format JSON.
+Les pages HTML `Glossaire`, `Environnement de test`, `Références` et `Licence` sont générées à partir du fichier `glossaire.json` au format JSON.
+
+Chaque fichier en format Markdown est mis à disposition individuellement ou regroupé dans un ensemble (_package_).
+Les fichiers en format JSON sont mis à disposition individuellement.
+
+*****************
+
+## [version RGAA 4.0](https://github.com/DISIC/RGAA/releases/tag/v4.0)
+
+La version en ligne du RGAA est publiée sur le site de la DINUM dans la rubrique `Publications\rgaa_accessibilité`.
+Les pages HTML sont organisées de la manière suivante :
+* Accueil
+* Obligations d'accessibilité
+* Méthode technique
+  * Critères et tests
+  * Glossaire
+  * Environnement de test
+  * Références
+  * Licence
+* Kit d'audit
+* Méthodologie de test
+* Documentation
+* Questions
+* Notes de révision
+
+### Création des pages HTML de la version web du RGAA 4.0
+Les pages HTML sont générées à partir de fichiers en format Markdown et en format JSON.
+
+Les pages HTML `Accueil`, `Obligations d'accessibilité`, `Méthode technique`, `Kit d'audit`, `Méthodologie de test`, `Documentation`, `Questions` et `Notes de révision` sont générées à partir de fichiers en format Markdown (md).
 
 Les pages HTML `Critères et tests` sont générées à partir du fichier `criteres.json` au format JSON.
 Les pages HTML `Glossaire`, `Environnement de test`, `Références` et `Licence` sont générées à partir du fichier `glossaire.json` au format JSON.
