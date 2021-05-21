@@ -23,5 +23,5 @@ La **version 4 du RGAA** a été arrêtée conjointement par la ministre chargé
     * [Critères et tests](criteres.md) <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/criteres/ -->
     * [Glossaire](glossaire.md) <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/glossaire/ -->
     * [Environnement de test](environnement.md) <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/environnement/-->
-    * [Références](reference.md)  <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/reference/ -->
+    * [Références](references.md)  <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/reference/ -->
     * [Licence](licence.md)  <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/licence/ -->
