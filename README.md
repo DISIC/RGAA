@@ -17,9 +17,8 @@ Les fichiers de référence des versions antérieures du RGAA sont disponibles d
 
 La version en ligne du RGAA est publiée sur le site de la DINUM dans la rubrique `Publications\rgaa_accessibilité` depuis le 18 février 2021.
 
-_Note : l'organisation des pages a été modifiée en version 4.1 par rapport à la version 4.0_
-
 Les pages HTML sont organisées de la manière suivante :
+_Note : l'organisation des pages a été modifiée en version 4.1 par rapport à la version 4.0_
 * Accueil
 * Obligations d'accessibilité
 * Méthode technique
