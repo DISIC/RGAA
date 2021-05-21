@@ -1,0 +1,133 @@
+#rgaa {
+    a {
+        color: #006A67;
+    }
+    h3 {
+        font-weight: 700;
+        margin-top: 2rem;
+        margin-bottom: 1.5rem;
+    }
+    h4, h5 {
+        margin-bottom: 0.7rem;
+        margin-top: 0.5rem;
+    }
+    .sommaire {
+        border-right: 1px solid #cacaca;
+    }
+    li ol {
+        list-style-type: lower-latin;
+    }
+}
+
+#criteres {
+    #elt-filtres {
+        display: flex;
+    }
+    #topics {
+        /* position: sticky;
+        top: 0;
+        z-index: 1;
+        background-color: #fff; */
+        #topics-list {
+            list-style-type: none;
+            margin-left: 0;
+            li {
+                display: inline-block;
+                border: 1px solid #cacaca;
+                margin: 4px 1px;
+                a {
+                    padding: 2px;
+                }
+            }
+        }
+    }
+    article {
+        border: 1px solid rgba(215, 215, 215, 1);
+        padding: 0 1.5% 0 1.5%;
+        margin-bottom: 3em;
+        background-color: #f5F5F5;
+        h4 {
+            position: relative;
+            padding-right: 1.2em;
+            p {
+                display: inline;
+                padding-right: 1.7em;
+            }
+            button {
+                border: 1px solid #333;
+                position: absolute;
+                right: 0;
+                top: .2em;
+                height: 26px;
+                padding: 2px;
+            }
+
+        }
+        .is-invisible {
+            display: none;
+        }
+        ul.tests {
+            list-style: none;
+            >li {
+                margin-bottom: 1em;
+                span.test {
+                    font-weight: bold;
+                }
+                p {
+                    display: inline;
+                }
+
+                ul {
+                    list-style-type: disc;
+                    margin-top: 0.3em;
+                    >li {
+                        margin-bottom: 0.5em;
+                    }
+                }
+            }
+        }
+        .aside {
+            background-color: #D8D8D8;
+            width: 103.2%;
+            margin-left: -1.6%;
+            padding: 1.5%;
+            h5 {
+                margin-bottom: 1em;
+            }
+        }
+    }
+    .back-to-topics {
+        display: block;
+        text-align: right;
+    }
+}
+
+#glossaire {
+    nav {
+        margin-bottom: 2em;
+        a {
+            padding: 2px;
+            border: 1px solid #cacaca;
+            display: inline-block;
+            width: 25px;
+            height: 25px;
+            line-height: 1.3;
+            text-align: center;
+        }
+    }
+}
+
+#notes-revision {
+    h4+p, h4+div {
+        padding: 0.6em;
+        background-color: #F5F5F5;
+    }
+    h4~p+ul {
+        margin-top: -1em;
+        padding: 0.6em 0.6em 0.6em 2.9em;
+        background-color: #F5F5F5;
+    }
+    ins {
+        text-decoration: none;
+    }
+}
