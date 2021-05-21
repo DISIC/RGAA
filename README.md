@@ -9,7 +9,7 @@ Le RGAA 4 est mis à disposition sous plusieurs formats :
 __À noter__ : le site web de la DINUM publie le RGAA pour la version _en cours_. 
 Les fichiers de référence des versions antérieures du RGAA sont disponibles dans Github.
 
-## Consulter les Releases pour plus d'nformations et accéder aux fichiers
+## Consulter les Releases pour plus d'informations et accéder aux fichiers
 
 *****************
 
