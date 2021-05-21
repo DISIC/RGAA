@@ -8,7 +8,7 @@ Les fichiers au format JSON correspondent __uniquement à la méthode technique_
   * Références
   * Licence
 
-### Fichier [criteres.json](criteres.json "Télécharger le fichier criteres.json (1,37 Mo)")
+### Fichier [criteres.json](https://github.com/DISIC/RGAA/releases/download/v4.1/criteres.json "Télécharger le fichier criteres.json (1,37 Mo)")
 Le fichier `criteres.json` contient la liste des 106 critères du RGAA 4.0 regroupés par thématiques.
 Il permet la création des pages HTML relatives aux critères et tests de la méthode technique du RGAA 4.1
 
@@ -22,7 +22,7 @@ Chaque critère RGAA contient les informations suivantes :
   * Références aux critères WCAG associés ;
   * Références aux techniques WCAG associées.
 
-### Fichier [glossaire.json](glossaire.json "Télécharger le fichier glossaire.json (676 Ko)")
+### Fichier [glossaire.json](https://github.com/DISIC/RGAA/releases/download/v4.1/glossaire.json "Télécharger le fichier glossaire.json (676 Ko)")
 Le fichier `glossaire.json` contient les entrées de glossaire utilisées dans le fichier `criteres.json`.
 Il permet la création des pages HTML de la méthode technique du RGAA 4.0 relatives aux rubriques Glossaire, Environnement de test, Références et Licence.
 
