@@ -23,7 +23,7 @@ Une liste d'outils est aussi proposée pour aider à la réalisation des tests ;
 
 L'outil le plus utile reste l'inspecteur de code que propose chaque navigateur. Il permet de rechercher facilement les éléments et les attributs requis pour un examen par un test d'accessibilité.
 
-Les aides techniques listées dans l’environnement de test retenu constituent un second ensemble d'outils indispensables (voir la rubrique [Environnement de test](/publications/rgaa-accessibilite/methode-rgaa/environnement/#contenu)) ; ils sont, en effet, requis pour s'assurer d'une restitution correcte de contenus accessibles (les alternatives aux images, les intitulés de lien, les titres de tableau, ...) dans le cas notamment où l'examen du code seul ne suffirait pas.
+Les aides techniques listées dans l’environnement de test retenu constituent un second ensemble d'outils indispensables (voir la rubrique [Environnement de test](environnement/#contenu)) ; ils sont, en effet, requis pour s'assurer d'une restitution correcte de contenus accessibles (les alternatives aux images, les intitulés de lien, les titres de tableau, ...) dans le cas notamment où l'examen du code seul ne suffirait pas. <!-- ref sur numerique /publications/rgaa-accessibilite/methode-rgaa/environnement/#contenu -->
 
 D'autres outils sont disponibles pour aider à la recherche des éléments de contenu ; ils se présentent souvent comme des extensions au navigateur et permettent d'explorer un ou plusieurs aspects d'un test d'accessibilité.
 
