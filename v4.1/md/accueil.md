@@ -13,14 +13,15 @@ Pour faciliter la mise en œuvre de **l’accessibilité numérique**, la **DINU
 
 La **version 4 du RGAA** a été arrêtée conjointement par la ministre chargée des personnes handicapées et le ministre chargé du numérique le 20 septembre 2019. Elle est structurée en **2 parties**. La première présente les **obligations** à respecter : elle s’adresse aux juristes, aux référents accessibilité numérique, aux managers et à tous les professionnels du web et de l’accessibilité. La deuxième contient une liste de **critères** pour vérifier la conformité d’une page web : elle s’adresse aux auditeurs RGAA.
 
-* [Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.1 au format PDF (3,1 Mo)](/uploads/rgaa/RGAA-v4.1.pdf).
-* [Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.1 au format ODT (215 Ko)](/uploads/rgaa/RGAA-v4.1.odt).
+<!-- href sur numerique /uploads/rgaa/ -->
+* [Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.1 au format PDF (3,1 Mo)](/v4.1/Documents/RGAA-v4.1.pdf).
+* [Télécharger le référentiel général d’amélioration de l’accessibilité (RGAA) version 4.1 au format ODT (215 Ko)](/v4.1/Documents/RGAA-v4.1.odt).
 * Consulter la version HTML du référentiel
-  * [Obligations d’accessibilité](/publications/rgaa-accessibilite/obligations/)
+  * [Obligations d’accessibilité](obligations.md)  <!-- href sur numerique /publications/rgaa-accessibilite/obligations/ -->
   * Méthode technique
-    * [Introduction](/publications/rgaa-accessibilite/methode-rgaa/)
-    * [Critères et tests](/publications/rgaa-accessibilite/methode-rgaa/criteres/)
-    * [Glossaire](/publications/rgaa-accessibilite/methode-rgaa/glossaire/)
-    * [Environnement de test](/publications/rgaa-accessibilite/methode-rgaa/environnement/)
-    * [Références](/publications/rgaa-accessibilite/methode-rgaa/reference/)
-    * [Licence](/publications/rgaa-accessibilite/methode-rgaa/licence/)
+    * [Introduction](methode-rgaa.md) <!-- href sur numerique /publications/rgaa-accessibilite/obligations/ -->
+    * [Critères et tests](criteres.md) <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/criteres/ -->
+    * [Glossaire](glossaire.md) <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/glossaire/ -->
+    * [Environnement de test](environnement.md) <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/environnement/-->
+    * [Références](reference.md)  <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/reference/ -->
+    * [Licence](licence.md)  <!-- href sur numerique /publications/rgaa-accessibilite/methode-rgaa/licence/ -->
