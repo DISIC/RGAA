@@ -34,20 +34,21 @@ ni à répondre à toutes les *issues* ou *pull requests* ouvertes.
 
 Les propriétaires *techniques* de la liste de discussion sont les
 personnes en charge du RGAA à la DINUM.  Ils ont aussi les pouvoirs
-*techniques* de modération de la liste.
+*techniques* de modération sur la liste. Les archives de cette liste
+ne sont accessibles qu'aux abonnés.
 
-La DINUM a ouvert cet espace d'échange en vue de sensibiliser à
-l'importance du RGAA et à favoriser la mise en contact d'acteurs qui
-s'y intéressent.  Elle participe aux échanges pour aider à améliorer
-le RGAA, mais elle n'a pas obligation d'y communiquer toutes les
-informations relatives aux mises à jour du RGAA ou de répondre aux
-questions posées.
+La DINUM a ouvert cet espace privé d'échange en vue de sensibiliser à
+l'importance du RGAA et à favoriser la mise en relation d'acteurs qui
+s'y intéressent.  Les propos partagés sur la liste ne doivent pas être
+republiés hors de leur contexte sans l'autorisation de leurs auteurs.
+
+La DINUM participe aux échanges pour contribuer à l'améliorer du RGAA.
+Elle n'a pas obligation d'y communiquer les informations relatives aux
+mises à jour du RGAA ou de répondre aux questions posées.
 
 La liste n'est pas un canal de support pour adresser des requêtes
 formelles à la DINUM.
 
 La DINUM ne peut être tenue responsable des propos des uns et des
-autres.
-
-
-
+autres, ni de l'utilisation inappropriée de ces propos en dehors de
+l'espace d'échange.
