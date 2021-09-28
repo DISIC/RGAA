@@ -88,6 +88,10 @@ Les fichiers en format JSON sont mis à disposition individuellement.
 
 ********************
 
+## Contributions
+
+Vos contributions sont les bienvenues: voir [ces explications](CONTRIBUTING.md).
+
 ## Licence
 
 Le contenu de ce dépôt est publié sous [licence Ouverte 2.0](LICENSE.md).
