@@ -2032,7 +2032,7 @@ Les conditions sont les mêmes que 11.10.4 qui ne concerne que des champs obliga
 1. Retrouver dans le document les champs de formulaire qui se rapportent à une information concernant l'utilisateur (nom, prénom, numéro de téléphone, etc.) ;
 2. Pour chaque champ de formulaire, vérifier que :
     1. Le champ de formulaire possède un attribut `autocomplete` ;
-    2. L'attribut `autocomplete` est pourvu d'une valeur présente dans la liste des valeurs possibles (voir <https://www.w3.org/TR/html52/sec-forms.html#autofill-processing-model>) ;
+    2. L'attribut `autocomplete` est pourvu d'une valeur présente dans la liste des valeurs possibles (cf. [glossaire](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode-rgaa/glossaire/#liste-des-valeurs-possibles-pour-l-attribut-autocomplete)) ;
     3. La valeur indiquée pour l'attribut `autocomplete` est pertinente au regard du type d'information attendu.
 3. Si c'est le cas pour chaque champ de formulaire retrouvé, le test est validé.
 
