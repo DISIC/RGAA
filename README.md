@@ -1,3 +1,5 @@
+![Ne plus faire d'issue et de PR sur ce dépôt](https://user-images.githubusercontent.com/55451270/188188472-bbc35860-9435-4601-b6c2-10df7154715a.PNG)
+
 # Référentiel général d'amélioration de l'accessibilité (RGAA)
 
 Ce dépôt contient les __fichiers de référence__ du RGAA à partir de la version 4.0.
