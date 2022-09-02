@@ -1,4 +1,11 @@
-![Ne plus faire d'issue et de PR sur ce dépôt](https://user-images.githubusercontent.com/55451270/188188472-bbc35860-9435-4601-b6c2-10df7154715a.PNG)
+# [Ce dépôt va fermer prochainement](https://github.com/DISIC/RGAA/). 
+
+En raison de l’ouverture prochaine du nouveau site dédié à l’accessibilité numérique, ce dépôt va être archivé.
+
+**Merci de ne plus créer d’issue ou de pull request**.
+
+********************
+
 
 # Référentiel général d'amélioration de l'accessibilité (RGAA)
 
