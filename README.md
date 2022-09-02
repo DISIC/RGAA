@@ -2,7 +2,7 @@
 
 En raison de l’ouverture prochaine du nouveau site dédié à l’accessibilité numérique, ce dépôt va être archivé.
 
-**Merci de ne plus créer d’issue ou de pull request**.
+**Merci de ne plus créer d’<span lang="en">issue</span> ou de <span lang="en">pull request</span>**.
 
 ********************
 
